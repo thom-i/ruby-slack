@@ -1,6 +1,10 @@
 ## ruby-slack
-### Getting Started 
-
+### Getting Started
 ```
-bundle install --path=./vender/bundle
+$ git@github.com:thom-i/ruby-slack.git
+$ bundle install --path=./vender/bundle
+```
+### Running Locally
+```
+bundle exec ruby 〜.rb
 ```
